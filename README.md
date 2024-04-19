@@ -15,8 +15,8 @@ Snappy is chat application build with the power of MERN Stack.
 Both should be installed and make sure mongodb is running.
 
 ```shell
-git clone https://github.com/Anup64/Real Time Chat Application
-cd Real Time Chat Application
+git clone https://github.com/Anup64/Real-Time-Chat-Application
+cd Real-Time-Chat-Application
 ```
 Now rename env files from .env.example to .env
 ```shell
